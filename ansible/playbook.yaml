@@ -1,0 +1,16 @@
+#- hosts: localhost
+
+#ATUALIZA CACHE 
+- name: "Instalação dos pacotes necessários para o GPS"
+  hosts: localhost
+  connection: local
+  tasks:
+    - include: tasks/update/main.yaml
+
+
+#INSTALA E CONFIGURA MODULO DE GPS 
+- name: "Instalação dos pacotes necessários para o GPS"
+  hosts: localhost
+  connection: local
+  tasks:
+    - include: tasks/GPS/main.yaml
