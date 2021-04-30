@@ -1,0 +1,22 @@
+- name: "install gpsd"
+  apt:
+    name: gpsd
+
+- name: "install gpsd-clients"
+  apt:
+    name: gpsd-clients
+
+- name: "install python-gps - provavel que não de certo"
+  apt:
+    name: python-gps
+  ignore_errors: yes
+
+- name: "install minicom"
+  apt:
+    name: minicom
+
+#- name: "install python-gps - provavel que não de certo"
+#  apt:
+#    name: gpsd
+
+
