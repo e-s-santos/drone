@@ -1,12 +1,28 @@
 #- hosts: localhost
+#TESTE
+- name: "preparação do ambiente"
+  hosts: localhost
+  connection: local
+  tasks:
+    - include: tasks/teste/main.yaml
+
+
+
+
 
 #ATUALIZA CACHE 
-- name: "Instalação dos pacotes necessários para o GPS"
+- name: "preparação do ambiente"
   hosts: localhost
   connection: local
   tasks:
     - include: tasks/update/main.yaml
 
+#INSTALA e CONFIGURA O GIROSCOPIO 
+#- name: "Instalação e configuração dos pacotes necessários para o GIROSCOPIO" 
+#  hosts: localhost
+#  connection: local
+#  tasks: 
+#    - include: /etc/ansible/tasks/giroscopio/main.yaml
 
 #INSTALA E CONFIGURA MODULO DE GPS 
 - name: "Instalação dos pacotes necessários para o GPS"

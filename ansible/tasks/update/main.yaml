@@ -10,6 +10,18 @@
   apt:
     name: python3-pip
 
+- name: "python smbus"
+  apt: 
+    name: python3-smbus
+
+- name: "python-is-python3" 
+  apt: 
+    name: python-is-python3
+
+- name: "lm-sensor"
+  apt: 
+    name: lm-sensors
+
 - name: "rasp-config"
   get_url:
     url: https://archive.raspberrypi.org/debian/pool/main/r/raspi-config/raspi-config_20200601_all.deb 
@@ -18,4 +30,18 @@
 - name: "instalando rasp-config" 
   apt: 
     deb: /etc/ansible/file/raspi-config_20200601_all.deb
+
+- name: "I2C" 
+  apt: 
+    name: i2c-tools
+
+# #################################################
+# e setado outros parametros de sistema operacional
+# #################################################
+
+#Memoria SWAP 
+- name: "swap - alterar parametros conforme necessidade" 
+  ansible.builtin.command:
+    cmd: "ls" 
+  #command: mkdir /tmp/teste
 

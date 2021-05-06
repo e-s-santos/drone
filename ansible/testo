@@ -1,0 +1,871 @@
+    1  apt-get install apache 2
+    2  clear
+    3  apt update python
+    4  apt-get install python3
+    5  apt search python 
+    6  apt install python3
+    7  apt upgrade
+    8  apt install python3
+    9  python
+   10  python 
+   11  pip
+   12  apt-get  install python3
+   13  apt-get  install python3-pip
+   14  pip install pandas
+   15  pip
+   16  pip3
+   17  pip3 install pandas
+   18  apt install lm-sensor
+   19  apt install lm-sensors
+   20  sensors-detect
+   21  sensors
+   22  watch sensors
+   23  shutdown now 
+   24  clear
+   25  ll
+   26  shutdown now
+   27  clear
+   28  raspi-config
+   29  wget https://archive.raspberrypi.org/debian/pool/main/r/raspi-config/raspi-config_20200601_all.deb -P /tmp
+   30  ll
+   31  cd /tmp/
+   32  ll
+   33  apt-get install libnewt0.52 whiptail parted triggerhappy lua5.1 alsa-utils -y
+   34  apt install -fy
+   35  dpkg -i /tmp/raspi-config_20200601_all.deb
+   36  raspi-config
+   37  i2cdetect -y 1
+   38  apt-get install i2cdetect
+   39  apt install i2c
+   40  history 
+   41  raspi-config
+   42  i2cdetect -y 1
+   43  apt install i2c-tools
+   44  i2cdetect -y 1
+   45  sudo apt install python3-smbus
+   46  pip install mpu6050-raspberrypi
+   47  pip3 install mpu6050-raspberrypi
+   48  touch mpu_6050.py
+   49  ll
+   50  vim mpu_6050.py 
+   51  puPython3 mpu_6050.py
+   52  Python3 mpu_6050.py
+   53  apt install python3
+   54  python3 mpu_6050.py
+   55  history 
+   56  i2cdetect -y 1
+   57  Python3 mpu_6050.py
+   58  vim mpu_6050.py 
+   59  python3 mpu_6050.py
+   60  i2cdetect -y 1
+   61  python3 mpu_6050.py
+   62  vim mpu_6050.py 
+   63  python3 mpu_6050.py
+   64  vim mpu_6050.py 
+   65  python3 mpu_6050.py
+   66  vim mpu_6050.py 
+   67  i2cdetect -y 1
+   68  python mpu_6050.py
+   69  apt install python-is-python3
+   70  python mpu_6050.py
+   71  apt install python-is-python3
+   72  vim mpu_6050.py 
+   73  i2cdetect -y 0
+   74  i2cdetect -y 2
+   75  i2cdetect -y 1
+   76  wich i2cdetect -y 1
+   77  which i2cdetect -y 1
+   78  clear
+   79  i2cdetect -y 1
+   80  python mpu_6050.py
+   81  vim ok.py
+   82  ll
+   83  python ok.py 
+   84  vim ok.py
+   85  python ok.py e
+   86  clear
+   87  ll
+   88  vim ok.py 
+   89  i2cdetect -y 1
+   90  clear
+   91  i2cdetect -y 1
+   92  ll
+   93  vim mpu_6050.py 
+   94  python mpu_6050.py 
+   95  vim mpu_6050.py 
+   96  python mpu_6050.py 
+   97  vim mpu_6050.py 
+   98  python mpu_6050.py 
+   99  vim mpu_6050.py 
+  100  python mpu_6050.py 
+  101  reboot
+  102  clear
+  103  cd /tmp/
+  104  ll
+  105  cd /ap
+  106  cd /opt/
+  107  ll
+  108  mkdir teste
+  109  ll
+  110  cd teste/
+  111  ll
+  112  touch py.txt
+  113  touch py.py
+  114  ll
+  115  l
+  116  ll
+  117  vim py.py 
+  118  ll
+  119  vim py.py 
+  120  python py.py 
+  121  vim py.py 
+  122  python py.py 
+  123  i2cdetect -y 1
+  124  i2cdetect -y 0
+  125  cd /dev/
+  126  ll
+  127  i2cdetect -y 0
+  128  ll i*
+  129  clear
+  130  python py.py 
+  131  cd /opt/
+  132  ll
+  133  cd teste/
+  134  ll
+  135  vim py.py 
+  136  python py.py 
+  137  vim py.py 
+  138  python py.py 
+  139  vim py.py 
+  140  python py.py 
+  141  vim py.py 
+  142  python py.py 
+  143  pip install mpu6050
+  144  pip3 install mpu6050
+  145  ll /usr/local/lib/python3.8/dist-packages/mpu6050/
+  146  vim /usr/local/lib/python3.8/dist-packages/mpu6050/__init__.py 
+  147  vim /usr/local/lib/python3.8/dist-packages/mpu6050/mpu6050.py 
+  148  ll
+  149  vim py.py 
+  150  python py.py 
+  151  vim /usr/local/lib/python3.8/dist-packages/mpu6050/mpu6050.py 
+  152  python
+  153  vim /usr/local/lib/python3.8/dist-packages/mpu6050/mpu6050.py 
+  154  python
+  155  pip3 install busio
+  156  pip3 install time
+  157  history | grep pip 
+  158  pip3 install adafruit_veml6075
+  159  pip3 install adafruit-circuitpython-mpu6050
+  160  python3 
+  161  i2cdetect -y 1
+  162  i2cdetect -y 0
+  163  i2cdetect -y 1
+  164  ll
+  165  python3 
+  166  clear
+  167  ll
+  168  pyhon py.py
+  169  python
+  170  python py.py 
+  171  vim py.py 
+  172  python py.py 
+  173  i2cdetect -y 1
+  174  which i2cdetect -y 1
+  175  wich i2cdetect -y 1
+  176  apt install wish
+  177  i2cdetect -y 1
+  178  python py.py 
+  179  clear
+  180  python py.py 
+  181  vim py.py 
+  182  python py.py 
+  183  vim py.py 
+  184  clerar
+  185  clear
+  186  vim py.py 
+  187  python py.py 
+  188  clear
+  189  ll 
+  190  clear
+  191  vim py.py 
+  192  python py.py 
+  193  vim py.py 
+  194  python py.py 
+  195  vim py.py 
+  196  python py.py 
+  197  vim py.py 
+  198  python py.py 
+  199  vim py.py 
+  200  python py.py 
+  201  vim py.py 
+  202  python py.py 
+  203  vim py.py 
+  204  python py.py 
+  205  vim py.py 
+  206  python py.py 
+  207  vim py.py 
+  208  python py.py 
+  209  vim py.py 
+  210  python py.py 
+  211  clear
+  212  ifconfig
+  213  python py.py 
+  214  vim py.py 
+  215  python py.py 
+  216  ls
+  217  sensors
+  218  clear
+  219  sensors
+  220  watch sensors
+  221  clear
+  222  ll
+  223  pyhon py.py 
+  224  python py.py 
+  225  sensor
+  226  sensors
+  227  shutdown now 
+  228  cd opt
+  229  cd \'";[]
+  230  cd /opt
+  231  ll
+  232  cd teste/
+  233  ll
+  234  python py.py 
+  235  sensors
+  236  whatch sensors
+  237  watch sensors
+  238  clear
+  239  ll
+  240  cd /opt/
+  241  ll
+  242  cd teste/
+  243  ll
+  244  rm py.
+  245  rm py.txt 
+  246  ll
+  247  vim py.py 
+  248  python py.py 
+  249  ls 
+  250  clear
+  251  ll
+  252  vim py.py 
+  253  python py.py 
+  254  vim py.py 
+  255  python py.py 
+  256  vim py.py 
+  257  python py.py 
+  258  vim py.py 
+  259  python py.py 
+  260  vim py.py 
+  261  python py.py 
+  262  vim py.py 
+  263  python py.py 
+  264  vim py.py 
+  265  python py.py 
+  266  vim py.py 
+  267  python py.py 
+  268  vim py.py 
+  269  python py.py 
+  270  apt install apache2
+  271  ifconfig
+  272  cd /etc/apache2/
+  273  ll
+  274  cd sites-enabled/
+  275  ll
+  276  vim 000-default.conf 
+  277  cd /etc/
+  278  cd /opt/
+  279  ll
+  280  cd teste/
+  281  ll
+  282  python py.py 
+  283  shutdown now 
+  284  history 
+  285  cd /root/
+  286  ll
+  287  cd meu_projeto/
+  288  ll
+  289  cd meu_projeto_env/
+  290  ll
+  291  history 
+  292  jupyter notebook --port 9996 --ip 192.168.1.7 --allow-root
+  293  virtualenv meu_projeto_env
+  294  jupyter notebook --port 9996 --ip 192.168.1.7 --allow-root
+  295  cd ..
+  296  virtualenv meu_projeto_env
+  297  cd meu_projeto_env/
+  298  ll
+  299  virtualenv meu_projeto_env
+  300  cd meu_projeto_env/
+  301  ll
+  302  cd ..
+  303  source meu_projeto_env/bin/activate
+  304  jupyter notebook
+  305  apt install jupyter 
+  306  jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root
+  307  shutdown now
+  308  apt install gcc 
+  309  touch teste 
+  310  ll
+  311  vim teste 
+  312  ls
+  313  gcc teste  -o program.run
+  314  mv teste teste.c
+  315  ll
+  316  gcc teste.c  -o program.run
+  317  ll
+  318  ./program.run 
+  319  while [ : ]; ./program.run ; done
+  320  while [ : ];do ./program.run ; done
+  321  mkswap /tmp/troca
+  322  swapon /tmp/troca.
+  323  swapon /tmp/troca
+  324  free -h 
+  325  jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root
+  326  free -h 
+  327  jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root
+  328  nohup jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root & 
+  329  ls
+  330  tail -f nohup.out 
+  331  free -h
+  332  watch free -h
+  333  nohup pip install pandas & 
+  334  watch free -h
+  335  pip3 install pandas 
+  336  free -h
+  337  if=/dev/zero of=/tmp/swap bs=1024 count=1024000 
+  338  mkswap /tmp/swap
+  339  ls /tmp/m
+  340  reboot
+  341  shutdown now
+  342  mkswap /tmp/troca
+  343  if=/dev/zero of=/tmp/troca bs=1024 count=1024000
+  344  cd /tmp/
+  345  ll
+  346  free -h7
+  347  free -h
+  348  if=/dev/zero of=/tmp/troca bs=1024 count=64000
+  349  ls /tmp/
+  350  clear
+  351  ls
+  352  if=/dev/zero of=/tmp/troca bs=1024 count=64000
+  353  ls
+  354  ls /dev/zero 
+  355  if=/dev/zero of=/tmp/troca bs=1024 count=64000
+  356  dd if=/dev/zero of=/tmp/troca bs=1024 count=1024000
+  357  mkswap /tmp/troca
+  358  swapon /tmp/troca
+  359  free 
+  360  free  -h
+  361  df
+  362  df -h
+  363  nohup jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root & 
+  364  watch free -h
+  365  pip install pandas
+  366  updatedb
+  367  locate pandas
+  368  apt install locate
+  369  shutdown now 
+  370  dd if=/dev/zero of=/tmp/troca bs=1024 count=64000 
+  371  mkswap /tmp/troca
+  372  swapon /tmp/troca.
+  373  swapon /tmp/troca
+  374  cat /proc/meminfo
+  375  nohup jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root & 
+  376  clear
+  377  ll
+  378  updatedb 
+  379  locate pandas
+  380  python -m pip install -U pip
+  381  cd  ~
+  382  ll
+  383  cd .cache/
+  384  ll
+  385  cd p
+  386  cd pip/
+  387  ll
+  388  rm -Rf * 
+  389  ll
+  390  pip install pandas 
+  391  cd /etc/
+  392  ll
+  393  dd if=/dev/zero of=/tmp/troca bs=1024 count=64000 
+  394  dd if=/dev/zero of=/tmp/troca bs=1024 count=1024000 
+  395  history 
+  396  dd if=/dev/zero of=/tmp/troca2 bs=1024 count=1024000
+  397  mkswap /tmp/troca2
+  398  swapon /tmp/troca2
+  399  free 
+  400  free -h
+  401  nohup jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root & 
+  402  watch free -h 
+  403  ls
+  404  cat nohup.out 
+  405  kill -9 2136
+  406  ls 
+  407  ls
+  408  cd ..
+  409  ll
+  410  cd /root/
+  411  ll
+  412  cd meu_projeto/
+  413  nohup jupyter notebook --ip 192.168.1.7 --port 9996 --allow-root & 
+  414  watch free -h 
+  415  curl 
+  416  curl -v -L http://apiadvisor.climatempo.com.br/api/v1/anl/synoptic/locale/BR?token=2e60ead2d2127ccf58a70aafba34295a
+  417  shutdown now 
+  418  clar
+  419  cd /opt/teste/
+  420  python py.py 
+  421  shutdown now
+  422  clear
+  423  sudo apt-get install python-pip
+  424  sudo pip install pynmea2
+  425  /usr/bin/python3 -m pip install --upgrade pip
+  426  sudo apt-get install gpsd gpsd-clients python-gps minicom
+  427  sudo apt install gpsd gpsd-clients python-gps minicom
+  428  sudo rm -rf /var/lib/apt/lists/lock
+  429  sudo apt-get update
+  430  sudo dpkg --configure -a
+  431  sudo apt-get -f install
+  432  ls /var/lib/apt/lists/lock
+  433  ls /var/lib/apt/lists/
+  434  exit
+  435  clear
+  436  apt0sudo rm -rf /var/lib/apt/lists/lock
+  437  sudo rm -rf /var/lib/apt/lists/lock
+  438  sudo apt-get install gpsd gpsd-clients python-gps minicom
+  439  apt-get install gpsd
+  440  apt-get install gpsd-clients
+  441  apt install minicom 
+  442  apt install python-gps
+  443  sudo apt-get update -y
+  444  sudo apt-get install -y python-gps
+  445  sudo nano /boot/cmdline.txt
+  446  o
+  447  vim /boot/cmdline.txt
+  448  vim /boot/config.txt
+  449  stty -F /dev/ttyAMA0 9600
+  450  sudo killall gpsd
+  451  vim /etc/default/gpsd
+  452  reboot now
+  453  clear
+  454  ifconfig
+  455  cat /boot/config.txt
+  456  stty -F /dev/ttyAMA0 9600
+  457  sudo killall gpsd
+  458  /etc/default/gpsd
+  459  cat /etc/default/gpsd
+  460  vim  /etc/default/gpsd
+  461  sudo systemctl enable gpsd.socket
+  462  sudo systemctl start gpsd.socket 
+  463  sudo cgps -s
+  464  cat /dev/ttyAMA0
+  465  ls /dev
+  466  cgps -s
+  467  cd Python-NEO-6M-GPS-Raspberry-Pi
+  468  python Neo6mGPS.py
+  469  touch Neo6mGPS.py
+  470  vim Neo6mGPS.py
+  471  python Neo6mGPS.py
+  472  vim Neo6mGPS.py
+  473  python Neo6mGPS.py
+  474  vim Neo6mGPS.py
+  475  python Neo6mGPS.py
+  476  vim Neo6mGPS.py
+  477  python Neo6mGPS.py
+  478  vim Neo6mGPS.py
+  479  python Neo6mGPS.py
+  480  cgps -s 
+  481  ps -ef | grep gps
+  482  cat /dev/ttyAMA0
+  483  cgps -s 
+  484  gpsmon
+  485  clear
+  486  raspi-config
+  487  clear
+  488  cat /dev/serial0
+  489  cat /dev/ttyAMA0
+  490  gpsd
+  491  man gpsd
+  492  clea
+  493  clear
+  494  ls
+  495  cd /dev/
+  496  ll
+  497  history 
+  498  locate Neo6
+  499  updatedb
+  500  cd ~
+  501  ls
+  502  cd ..
+  503  ls
+  504  locate Neo
+  505  clear
+  506  history 
+  507  locate Neo6
+  508  updatedb
+  509  locate Neo6
+  510  cd /home/ubuntu/
+  511  ls
+  512  python Neo6mGPS.py 
+  513  cgps -y
+  514  cgps -s
+  515  cls /dev
+  516  ls /dev/
+  517  rasp-config
+  518  history 
+  519  raspi-config
+  520  clear
+  521  ls
+  522  cat /etc/
+  523  ls
+  524  ls /etc/
+  525  ls /dev
+  526  ls -ltr /dev/
+  527  cat ttyAMA0
+  528  cat /dev/ttyAMA0
+  529  history  
+  530  cat /dev/ttyAMA0
+  531  clear
+  532  sudo adduser pi dialout
+  533  sudo systemctl stop gpsd.socket
+  534  sudo systemctl status gpsd.socket
+  535  sudo systemctl start gpsd.socket
+  536  sudo systemctl status gpsd.socket
+  537  sudo systemctl stop gpsd.socket
+  538  sudo systemctl disable gpsd.socket
+  539  sudo gpsd /dev/serial0 -F /var/run/gpsd.sock
+  540  gpsmon
+  541  cgps -s 
+  542  clear
+  543  cd /opt/teste/
+  544  ll
+  545  python py.py 
+  546  clear
+  547  ls -ltr /dev/
+  548  cat /dev/pt
+  549  cat /dev/ptmx 
+  550  cfps -y
+  551  cfps -s
+  552  cgps -y
+  553  cgps -s
+  554  sudo systemctl stop serial-getty@serial0.service
+  555  sudo systemctl start serial-getty@serial0.service
+  556  history | gpsd
+  557  history | grep gpsd
+  558  ls /var/run/gpsd.sock 
+  559  ls /var/run/gpsd.sock  | cat
+  560  ls /var/run/gpsd.sock  | xargs cat
+  561  cat /var/run/gpsd.sock  
+  562  ls /var/run/gpsd.sock  | xargs cat
+  563  ls /var/run/gpsd.sock 
+  564  cat /var/run/gpsd.sock
+  565  cd /var/run
+  566  ls -ltr
+  567  cat gpsd.sock 
+  568  clear
+  569  gpsd -s
+  570  ]
+  571  clear
+  572  raspi-config
+  573  clear
+  574  cd /dev/
+  575  ls
+  576  ls -ltr
+  577  ls -ltr 
+  578  history 
+  579  ls -ltr tail -f /dev/ttyS0  
+  580  tail -f /dev/ttyS0  
+  581  tail -f /dev/ttyS0  /dev/
+  582  tail -f /dev/ttyS0  /dev/ttyAMA0
+  583  tail -f /dev/ttyS0 /dev/ttyAMA0
+  584  ps -ef | gre´fps 
+  585  ps -ef | grep gps
+  586  systemctl start gpsd
+  587  ps -ef | grep gps
+  588  tail -f /dev/ttyS0 /dev/ttyAMA0
+  589  history | grep disable
+  590  systemctl enable gpsd.socket
+  591  systemctl status gpsd.socket
+  592  tail -f /dev/ttyS0 /dev/ttyAMA0
+  593  ls -ltr /dev/
+  594  tail -f /dev/ttyS0 /dev/ttyAMA0
+  595  cat /dev/ttyS0 
+  596  gpsmon
+  597  ls -ltr /dev/
+  598  tail -f /dev/ttyS0 /dev/ttyAMA0
+  599  tail -f /dev/ttyS0 ; tail -f /dev/ttyAMA0
+  600  #tail -f /dev/ttyS0 ; tail -f /dev/ttyAMA0
+  601  ls -ltr /dev/
+  602  cat /dev/ttyAMA0 
+  603  ls -ltr /dev/
+  604  ll /dev/
+  605  ls -ltr /dev/
+  606  cgps -s
+  607  gpsd
+  608  sudo systemctl stop serial-getty@serial0.service
+  609  ls -ltr /dev/
+  610  sudo systemctl start serial-getty@serial0.service
+  611  ls -ltr /dev/
+  612  tail -f /dev/ttyAMA0 
+  613  tail -f /dev/ttyS0 
+  614  raspi-config
+  615  tail -f /dev/ttyS0 
+  616  tail -f /dev/ttyAMA0 
+  617  ls -ltr /dev/
+  618  cat /dev/ttyAMA0 
+  619  gpsd
+  620  systemctl status gpsd
+  621  gpsmon
+  622  clear
+  623  ls -ltr /dev/
+  624  cat /dev/ptmx 
+  625  sudo systemctl start gpsd.socket 
+  626  sudo systemctl status gpsd.socket 
+  627  cgps
+  628  ls -ltr /dev/
+  629  sudo nano /etc/default/gpsd
+  630  sudo vim  /etc/default/gpsd
+  631  vim /etc/default/gpsd
+  632  sudo systemctl start gpsd.socket 
+  633  sudo systemctl stop gpsd.socket 
+  634  ps -f | grep fps
+  635  gps 
+  636  ps -ef | grep gps 
+  637  sudo systemctl start gpsd.socket 
+  638  ps -ef | grep gps 
+  639  sudo systemctl start gpsd.socket 
+  640  ps -ef | grep gps 
+  641  sudo systemctl status gpsd.socket 
+  642  sudo systemctl status gpsd
+  643  clear
+  644  ls -ltr
+  645  cat ttyS0 
+  646  sudo killall gpsd
+  647  sudo systemctl start gpsd.socket 
+  648  cgps -s 
+  649  ls -ltr /dev/
+  650  cat ttyS0 cat tty
+  651  cat ttyS0 
+  652  cd /opt/teste/
+  653  ll
+  654  python Neo6mGPS.py 
+  655  ls
+  656  vim Neo6mGPS.py
+  657  python Neo6mGPS.py 
+  658  vim Neo6mGPS.py
+  659  python Neo6mGPS.py 
+  660  vim Neo6mGPS.py
+  661  python Neo6mGPS.py 
+  662  vim Neo6mGPS.py
+  663  python Neo6mGPS.py 
+  664  vim Neo6mGPS.py
+  665  python Neo6mGPS.py 
+  666  ls -ltr /dev/
+  667  python Neo6mGPS.py 
+  668  ls -ltr /dev/
+  669  cat /dev/ttyS0 
+  670  python Neo6mGPS.py 
+  671  cat /dev/ttyS0 
+  672  python Neo6mGPS.py 
+  673  vim Neo6mGPS.py
+  674  python Neo6mGPS.py 
+  675  cat /dev/ttyS0 
+  676  python Neo6mGPS.py 
+  677  cat /dev/ttyS0 
+  678  vim Neo6mGPS.py
+  679  cat /dev/ttyS0 
+  680  python Neo6mGPS.py 
+  681  vim Neo6mGPS.py
+  682  python Neo6mGPS.py 
+  683  cat /dev/ttyS0 
+  684  vim Neo6mGPS.py
+  685  cat /dev/ttyS0 
+  686  python Neo6mGPS.py 
+  687  shutdown now 
+  688  clear
+  689  cd ..
+  690  cd dev/
+  691  systemctl status gpsd
+  692  systemctl start gpsd
+  693  systemctl status gpsd
+  694  clear
+  695  cd et
+  696  cd ..
+  697  cd dev/
+  698  ls -ltr 
+  699  cat ttyS0 
+  700  cd ..
+  701  cd opt/
+  702  ll
+  703  cd teste/
+  704  ll
+  705  vim Neo6mGPS.py
+  706  clear
+  707  ls
+  708  python Neo6mGPS.py
+  709  clear
+  710  vim Neo6mGPS.py
+  711  python Neo6mGPS.py
+  712  cler
+  713  clear
+  714  cler
+  715  python Neo6mGPS.py
+  716  vim Neo6mGPS.py
+  717  python Neo6mGPS.py
+  718  vim Neo6mGPS.py
+  719  python Neo6mGPS.py
+  720  vim Neo6mGPS.py
+  721  python Neo6mGPS.py
+  722  vim Neo6mGPS.py
+  723  clear
+  724  ls
+  725  cat Neo6mGPS.py_bkp 
+  726  cat Neo6mGPS.py
+  727  vim Neo6mGPS.py
+  728  python Neo6mGPS.py
+  729  vim Neo6mGPS.py
+  730  cat /dev/ttyS0 
+  731  cgps -y
+  732  cgps -s
+  733  clear
+  734  python Neo6mGPS.py
+  735  vim Neo6mGPS.py
+  736  python Neo6mGPS.py
+  737  vim Neo6mGPS.py
+  738  cat Neo6mGPS.py_bkp 
+  739  vim Neo6mGPS.py
+  740  python Neo6mGPS.py
+  741  vim Neo6mGPS.py
+  742  python Neo6mGPS.py
+  743  clear
+  744  python Neo6mGPS.py
+  745  ls
+  746  cat Neo6mGPS.py
+  747  vim Neo6mGPS.py
+  748  python Neo6mGPS.py
+  749  vim Neo6mGPS.py
+  750  python Neo6mGPS.py
+  751  vim Neo6mGPS.py
+  752  clear
+  753  python Neo6mGPS.py
+  754  vim Neo6mGPS.py
+  755  python Neo6mGPS.py
+  756  vim Neo6mGPS.py
+  757  python Neo6mGPS.py
+  758  vim Neo6mGPS.py
+  759  python Neo6mGPS.py
+  760  vim Neo6mGPS.py
+  761  python Neo6mGPS.py
+  762  vim Neo6mGPS.py
+  763  python Neo6mGPS.py
+  764  vim Neo6mGPS.py
+  765  python Neo6mGPS.py
+  766  vim Neo6mGPS.py
+  767  car /dev/ttyS0 
+  768  cat /dev/ttyS0 
+  769  vim Neo6mGPS.py
+  770  python Neo6mGPS.py
+  771  clear
+  772  ps -x 
+  773  ps -x  | grep python
+  774  kill 2235
+  775  ps -x  | grep python
+  776  kill 2234
+  777  kill 2334
+  778  ps -x  | grep python
+  779  kill 2348
+  780  clear
+  781  cd /etc/ansible/
+  782  ll
+  783  vim hosts 
+  784  clear
+  785  vim hosts 
+  786  mkdir rules 
+  787  ll
+  788  cd rules/
+  789  ll
+  790  GPS
+  791  mkdir GPS 
+  792  ll
+  793  clear
+  794  ll
+  795  cd GPS/
+  796  ll
+  797  touch main.yml
+  798  ll
+  799  clear
+  800  cd ..
+  801  ll
+  802  mkdir tasks 
+  803  ll
+  804  cd tasks/
+  805  ll
+  806  GPS 
+  807  ll
+  808  mkdir 
+  809  mkdir  GPS 
+  810  ll
+  811  cd GPS/
+  812  ll
+  813  touch main.yml
+  814  clear
+  815  ll
+  816  vim main.yml 
+  817  ls
+  818  cd ..
+  819  ll
+  820  vim hosts 
+  821  clear
+  822  ansible-playbook -i host
+  823  ansible-playbook -i host playbook
+  824  ansible all m -ping
+  825  ansible ping 
+  826  ansible all
+  827  clear
+  828  ansible all ansible all -m ping
+  829  ansible-playbook ping
+  830  ansible -m
+  831  ansible -m shell
+  832  ansible -m/shell
+  833  clear
+  834  ll
+  835  touch playbook.yml
+  836  mv playbook.yml playbook.yaml
+  837  clear
+  838  ll
+  839  ansible-playbook -i hosts playbook.yaml 
+  840  vim playbook.yaml 
+  841  ansible-playbook -i hosts playbook.yaml 
+  842  vim playbook.yaml 
+  843  ansible-playbook -i hosts playbook.yaml 
+  844  vim playbook.yaml 
+  845  ll
+  846  mv tasks/GPS/main.yml tasks/GPS/main.yaml
+  847  ansible-playbook -i hosts playbook.yaml 
+  848  mv tasks/GPS/main.yml tasks/GPS/main.yaml
+  849  vim playbook.yaml 
+  850  mv tasks/GPS/main.yml tasks/GPS/main.yaml
+  851  ansible-playbook -i hosts playbook.yaml 
+  852  clear
+  853  ll
+  854  ansible-playbook  playbook.yaml 
+  855  vim playbook.yaml 
+  856  ansible-playbook  playbook.yaml 
+  857  ll /etc/ansible/task/GPS/main.yaml
+  858  vim playbook.yaml 
+  859  ll /etc/ansible/task/GPS/main.yaml
+  860  ansible-playbook  playbook.yaml 
+  861  vim tasks/GPS/main.yaml 
+  862  ansible-playbook  playbook.yaml 
+  863  vim tasks/GPS/main.yaml 
+  864  ansible-playbook  playbook.yaml 
+  865  vim tasks/GPS/main.yaml 
+  866  ansible-playbook  playbook.yaml 
+  867  vim tasks/GPS/main.yaml 
+  868  ansible-playbook  playbook.yaml 
+  869  clear
+  870  vim tasks/GPS/main.yaml 
+  871  history > testo

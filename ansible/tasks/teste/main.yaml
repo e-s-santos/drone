@@ -1,0 +1,5 @@
+#Memoria SWAP
+- name: "swap - alterar parametros conforme necessidade"
+  ansible.builtin.shell:
+    cmd:  "mkdir /media/swap ; dd if=/dev/zero of=/media/swap/memoria_swap bs=1024 count=1048576 status=progress ; mkswap memoria_swap ; chmod 0600 memoria_swap;  swapon memoria_swap"
+
